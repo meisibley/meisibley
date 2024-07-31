@@ -1,4 +1,4 @@
-## Hi this is Mei Sibley 👋
+## Hi, this is Mei Sibley 👋
 
 - 🌱 I’m currently learning at Atlas School
 - 👯 I’m looking to collaborate on Software and/or Fullstack Engineer
